@@ -149,6 +149,7 @@ h3 {
     padding: 20px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .contact {
@@ -207,10 +208,5 @@ h3 {
         display: flex;
         justify-content: space-between;
 
-    }
-
-    .contact.satu {
-        display: flex;
-        justify-content: space-around;
     }
 }
